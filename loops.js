@@ -11,10 +11,10 @@ function forLoop(array) {
     if (i > 1){
       array[i] = `I am ${i} strange loops.`;
     }
-  
+
     }
-       
+
   }
-  
+
   return array;
 }
