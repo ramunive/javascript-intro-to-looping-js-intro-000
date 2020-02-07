@@ -1,4 +1,4 @@
-var array = [];
+//var array = [];
 //array.length = 25;
 
 function forLoop(array) {
