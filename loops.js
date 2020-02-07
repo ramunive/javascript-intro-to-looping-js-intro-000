@@ -7,7 +7,7 @@ function forLoop(array) {
       array[i] = `I am ${i+1} strange loop.`;
     }
     else {
-    array[i] = `I am ${i} strange loop${i === 0 ? '' : 's'}.`;
+    array[i] = `I am ${i} strange loop${i === 1 ? '' : 's'}.`;
     }
   }
   return array;
